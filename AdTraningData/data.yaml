@@ -1,0 +1,5 @@
+names:
+- Ad
+nc: 1
+train: Hockey-Ad-Detection-2/train/images
+val: Hockey-Ad-Detection-2/valid/images
