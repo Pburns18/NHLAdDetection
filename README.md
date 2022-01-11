@@ -10,4 +10,4 @@ to create the final model. By doing this I was able to create a model which is a
 Running the model on the test set porudced strong results, being able to detect almost all advertisements with confidence over 0.80. The model was able to acheive these results
 while being tested on images from rinks the model had never seen before with advertisements that were also never seen to the model.
 
-![alt text] 
+![alt text](https://github.com/Pburns18/NHLAdDetection/edit/main/AdDetections.png)
