@@ -26,6 +26,7 @@ the trained model, display some examples and training results, and run an exampl
 
 ### Contact
 Peyton Burns - peyton.burns.j@gmail.com
+
 NHL Ad Detection - [https://github.com/Pburns18/NHLAdDetection](https://github.com/Pburns18/NHLAdDetection)
 
 #### Disclaimer
