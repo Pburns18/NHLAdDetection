@@ -10,4 +10,18 @@ to create the final model. By doing this I was able to create a model which is a
 Running the model on the test set porudced strong results, being able to detect almost all advertisements with confidence over 0.80. The model was able to acheive these results
 while being tested on images from rinks the model had never seen before with advertisements that were also never seen to the model.
 
-![alt text](https://github.com/Pburns18/NHLAdDetection/edit/main/AdDetections.png)
+![alt text](https://github.com/Pburns18/NHLAdDetection/blob/main/AdDetections.png)
+
+### Built With
+
+* [Python](https://www.python.org/)
+* [Yolov5](https://github.com/ultralytics/yolov5)
+* [PyTorch](https://pytorch.org/)
+* [OpenCV](https://opencv.org/)
+* [Roboflow](https://roboflow.com/)
+
+### Getting Started & Usage
+For ease of use I have created a [jupyter notebook](https://github.com/Pburns18/NHLAdDetection/blob/main/NHLAdDetectionInterface.ipynb) to easily interfacte with the created model. The easiest way to run this notebook would be to use Google Colab, and simply run all of the code within the notebook. The notebook will set up the environment, download 
+the trained model, display some examples and training results, and run an example test detection session.
+
+### Contact
